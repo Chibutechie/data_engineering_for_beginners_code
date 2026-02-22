@@ -148,7 +148,6 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-.env
 .envrc
 .venv
 env/
@@ -236,3 +235,5 @@ spark-warehouse/
 book/
 
 /metastore_db/
+config.bat
+node_modules
